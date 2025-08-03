@@ -76,6 +76,6 @@ HAVING
 ORDER BY
     salary_avg DESC,
     skill_count DESC
-LIMIT 25;
+LIMIT 25;   
 
    
